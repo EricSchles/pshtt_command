@@ -1,0 +1,6 @@
+pshtt_command.egg-info/PKG-INFO
+pshtt_command.egg-info/SOURCES.txt
+pshtt_command.egg-info/dependency_links.txt
+pshtt_command.egg-info/entry_points.txt
+pshtt_command.egg-info/requires.txt
+pshtt_command.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    pshtt_command=pshtt_command:cli
+    

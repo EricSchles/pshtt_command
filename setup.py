@@ -1,0 +1,15 @@
+from setuptools import setup
+
+setup(
+    name="pshtt_command",
+    version="0.0",
+    py__modeules=["pshtt_command"],
+    install_requires=[
+        "Click",
+        "pshtt"
+    ],
+    entry_points='''
+    [console_scripts]
+    pshtt_command=pshtt_command:cli
+    ''',
+)
